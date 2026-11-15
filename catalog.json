@@ -1,0 +1,20 @@
+{
+  "packs": [
+    {
+      "id": "pack-gf",
+      "name": "Pack GF",
+      "author": "Cerisierr_",
+      "description": "",
+      "version": "1.0.0",
+      "tags": [
+        "citizen",
+        "mods",
+        "plugins",
+        "son"
+      ],
+      "size": 1498142670,
+      "sha256": "6f32c5fcf86056cf2162322c2da3e3e04831420e39984df9171c6545a4a1135a",
+      "url": "https://github.com/Cerisierr/CRPM-Download/releases/download/packs/Pack-GF.zip"
+    }
+  ]
+}
